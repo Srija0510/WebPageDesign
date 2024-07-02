@@ -1,0 +1,38 @@
+*{
+margin: 1;
+padding: 0;
+}
+ul li {
+list-style-type: none;
+}
+.rightNav {
+width: 100%;
+text-align: right;
+margin-top: -130px;
+}
+.box {
+padding: 5px;
+border: 1px solid green;
+margin-left: 1100px;
+height: 150px;
+}
+.content {
+width: 100%;
+position: absolute;
+top: 10%;
+margin-left: 25%;
+font-size: 14px; 
+justify-content: space-between;
+border-left: 3px solid green;
+height: 480px;
+padding: 6px;
+}
+.header {
+text-align: center;
+background: yellow;
+}
+.footer {
+text-align: center;
+margin-top: 25%;
+}
+
